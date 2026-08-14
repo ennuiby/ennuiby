@@ -48,12 +48,12 @@ $who = [
 ### цифры
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ennuiby&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ennuiby&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ennuiby&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ennuiby&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ennuiby&theme=github-dark-blue&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=ennuiby&theme=github-dark-blue&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ $who = [
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ennuiby&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=ennuiby&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
 </p>
 
 <div align="center">
